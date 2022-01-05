@@ -1,7 +1,10 @@
-ba8461d1c7c65697da37d7e48a3be36c *DESCRIPTION
-0b524e52954581dab08eec0eae6723b7 *NAMESPACE
-d7824e9b1fd7312dd43b1511c95e0292 *R/getProxy.R
+a45f45bc8611aff0acef30aa70f9cde1 *DESCRIPTION
+12c8a60c0fce8fa6da9ca1df55bf09fc *NAMESPACE
+f57752f9477b89a9e345ccb5e2e54a2e *NEWS.md
+a27722d5f6af968264ac6af7bf3cb097 *R/getProxy.R
 2a84537cefef0266b27216aeaad125a5 *R/zzz.R
-5e5704f69e6f51ecaf6fcfcebfb652d3 *build/partial.rdb
+c86122d5c030f5fe826053079ba682fd *README.md
+3269c1a857cfcc7d664e1ca98f817cd8 *build/partial.rdb
+fd8445c2f98a7eef75fdb1e202de6132 *inst/logo/getProxy.png
 1ccf456a8d4f52d77599e523ab25664d *man/getProxy-package.Rd
-088db67f4045d4f9170c298ad52eba9f *man/getProxy.Rd
+13cd356e4ba0e0da8bfae97ec36f7d12 *man/getProxy.Rd
